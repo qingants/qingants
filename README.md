@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm [Rocky](https://qingants.github.io) 🎉
+
+- 🇨🇳 Chinese
+- 👔 Pronouns: "He" | "His"
+- 🧑🏻‍💻 &nbsp;Programmer
+- 🌏 Open-source software developer
+- ⚡ Go, Python, ...
